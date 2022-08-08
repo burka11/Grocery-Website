@@ -635,6 +635,6 @@ section{
     border-top: var(--border);
 }
 
-.footer .credit span{
+.footer .credit span a{
     color:var(--orange);
 }
