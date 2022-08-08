@@ -3,7 +3,7 @@
 <h2> This repository includes a responsive grocery website made by me by the help of some video tutorials. </h2>
 
 
-<br> <hr>
+<br> 
 
 <h3> You can test the website via this link <a href="https://manavgrocery.netlify.app/"> <b> DEMO </a> </h3>
 
